@@ -1,2 +1,3 @@
 This is first file in the local machine
 This is second line in the file from remote machine
+This is third line from the local machine
